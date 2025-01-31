@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/gopalsharma456" target="blank"><img src="https://img.shields.io/twitter/follow/gopalsharma456?logo=twitter&style=for-the-badge" alt="gopalsharma456" /></a> </p>
 
-- 🔭 I’m currently working on [Ecommerce Application](https://github.com/gopalsharma456/shopping_website)
+- 🔭 I’m currently working on [Email client - React Native Application](https://github.com/gopalsharma456/email_client_vishleshan)
 
-- 🌱 I’m currently learning **React JS, React Native,**
+- 🌱 I’m currently learning **React JS, React Native, TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gopalsharma456?tab=repositories](https://github.com/gopalsharma456?tab=repositories)
 
